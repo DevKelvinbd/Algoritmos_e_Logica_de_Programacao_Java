@@ -22,9 +22,7 @@ public class Main {
 		}
 		
 		System.out.println("Acesso Liberado!");
-		
 
 		sc.close();
 	}
-
 }
